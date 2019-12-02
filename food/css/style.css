@@ -1,0 +1,41 @@
+footer {
+    height: 50px;
+    line-height: 50px;
+    width: 100%;
+    background-color: #F8F9FA;
+    color: #000;
+    float: left;
+    text-align: center;
+}
+div.cnx {
+    width: 700px;
+    height: 547px;
+    background-color: black;
+    margin-top: 10px;
+    padding: 17px;
+    margin-left: 192px;
+    color: white;
+    border-radius: 30px;
+
+}
+div.sign{
+    width: 500px;
+    height: 623px;
+    background-color: rgba(26, 38, 207, 0.856);
+    margin-top: 23px;
+    padding: 18px;
+    margin-left: 196px;
+    color: white;
+    border-radius: 30px;
+}
+}
+}
+/*body{
+background-image: url("../img/fbg.jpg");
+}*/
+p{
+    text-align: center;
+    padding: 50px;
+    
+}
+
